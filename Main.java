@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/* DUPLA
+16876293 - João Pedro Boaretto
+15512767 - José Fausto Vital Barbosa
+*/ 
+
 public class Main {
     public static void main(String[] args) {
 

@@ -6,3 +6,6 @@ run:
 
 clean:
 	rm -f *.class
+
+zip:
+	zip Grafo.zip *.java Makefile
